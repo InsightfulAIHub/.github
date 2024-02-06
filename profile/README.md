@@ -3,5 +3,6 @@
 </p>
 
 <div align="center">
-  <h3>Your Hub for Diverse AI and Data Science Ideas! COMING SOON 💜</h3>
+  <h3>Welcome to InsightfulAIHub, Your Hub for Diverse AI and Data Science Ideas 💜</h3>
 </div>
+
