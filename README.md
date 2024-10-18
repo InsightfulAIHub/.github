@@ -1,1 +1,1 @@
-# # InsightfulAIHub
+# AIHub
